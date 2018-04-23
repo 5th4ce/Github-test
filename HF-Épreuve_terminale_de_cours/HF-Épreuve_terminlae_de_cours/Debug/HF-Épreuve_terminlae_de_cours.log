@@ -1,4 +1,0 @@
-﻿  Fonction.cpp
-c:\users\forh050595\desktop\informatique\structuré\projet\hf-épreuve_terminale_de_cours\hf-épreuve_terminlae_de_cours\dosgraph.h(77): warning C4305: 'initialisation' : troncation de 'int' à 'unsigned char'
-c:\users\forh050595\desktop\informatique\structuré\projet\hf-épreuve_terminale_de_cours\hf-épreuve_terminlae_de_cours\dosgraph.h(77): warning C4309: 'initialisation' : troncation de valeur de constante
-  HF-Épreuve_terminlae_de_cours.vcxproj -> C:\Users\FORH050595\Desktop\Informatique\Structuré\Projet\HF-Épreuve_terminale_de_cours\Debug\HF-Épreuve_terminlae_de_cours.exe
